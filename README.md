@@ -9,5 +9,5 @@ Given a year and the location on the earth (lat-lon), this code generates a sund
 4. Print the plot on a A4 or any reasonably sized sheet.
 5. Use a vertical stick (with length same as the bar on the plot) centered on the middle of the sundail and put it under sundail.
 
-<img src="Picture1.png" width="400">
+<img src="Sundail.jpg" width="400">
 
